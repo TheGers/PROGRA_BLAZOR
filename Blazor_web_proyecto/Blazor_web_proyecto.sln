@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_web", "Blazor_web\Blazor_web.csproj", "{3F8F5203-99D2-4491-9A36-A0BE643D991E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODELOS", "MODELOS\MODELOS.csproj", "{0CCC9049-B2EC-493C-9AE2-8421113B0102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATOS", "DATOS\DATOS.csproj", "{2B055645-C29C-41D2-AA36-D7FBDEC8BC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8F5203-99D2-4491-9A36-A0BE643D991E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8F5203-99D2-4491-9A36-A0BE643D991E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8F5203-99D2-4491-9A36-A0BE643D991E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8F5203-99D2-4491-9A36-A0BE643D991E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CCC9049-B2EC-493C-9AE2-8421113B0102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCC9049-B2EC-493C-9AE2-8421113B0102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCC9049-B2EC-493C-9AE2-8421113B0102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCC9049-B2EC-493C-9AE2-8421113B0102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B055645-C29C-41D2-AA36-D7FBDEC8BC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B055645-C29C-41D2-AA36-D7FBDEC8BC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B055645-C29C-41D2-AA36-D7FBDEC8BC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B055645-C29C-41D2-AA36-D7FBDEC8BC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A46308AB-7F4C-4D74-B1CD-E8DFE57A6448}
+	EndGlobalSection
+EndGlobal
